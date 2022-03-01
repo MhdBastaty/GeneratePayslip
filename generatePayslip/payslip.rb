@@ -1,5 +1,4 @@
 # class of employee
-
 class Employee
 
   attr_accessor :name, :annual_salary
